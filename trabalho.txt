@@ -1,0 +1,7 @@
+1- Sair de casa
+2- Caminhar até o ponto de ônibus
+3- Esperar o ônibus chegar 
+4- Entrar no ônibus 
+5- Descer do ônibus no 7ª ponto
+6- Caminhar até o local de trabalho
+7- Entrar no local de trabalho  
